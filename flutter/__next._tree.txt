@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/2gq6dps3wh-ym.css","style"]
+:HL["/_next/static/chunks/2oovpddxwzjco.css","style"]
 :HL["/_next/static/chunks/2vwjbbd20ouf-.css","style"]
 :HL["/_next/static/chunks/0_isvhsyw3sum.css","style"]
 :HL["/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -7,4 +7,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"flutter","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(flutter)","h":96,"c":"$Q2"}]]
-0:{"b":"95q0i62soHnlPG_-7N_Ud","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"f_RjjEsVNM58gK3v7_C7N","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
