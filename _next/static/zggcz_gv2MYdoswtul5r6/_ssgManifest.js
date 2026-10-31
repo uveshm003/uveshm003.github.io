@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fflutter\u002F[slug]","\u002Ffreelance\u002F[slug]","\u002Ffullstack\u002F[slug]","\u002Fproduct\u002F[kind]\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
