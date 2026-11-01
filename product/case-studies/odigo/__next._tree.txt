@@ -1,0 +1,13 @@
+:HL["/_next/static/chunks/19h8zr_06jfd0.css","style"]
+:HL["/_next/static/chunks/2040qvigkzrkx.css","style"]
+:HL["/_next/static/media/75cb990346c55dc4-s.p.40bho2kviej2o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/916cd8a3bde3edf8-s.p.0oace-s_gkfks.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/a6fd56cd89ea0e72-s.p.1hij5ex6k3v9q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/cb4b92673aedbbad-s.p.0-95eo-012xnf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/d6c1ff7e86974212-s.p.40sczeszzbjw1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+5:[["children",{"s":"__PAGE__","h":160}]]
+4:[["children",{"s":{"n":"slug","t":"d","k":"odigo","s":[]},"h":65632,"c":"$Q5"}]]
+3:[["children",{"s":{"n":"kind","t":"d","k":"case-studies","s":[]},"h":196704,"c":"$Q4"}]]
+2:[["children",{"s":"product","h":131168,"c":"$Q3"}]]
+1:[["children",{"s":"(product)","h":131168,"c":"$Q2"}]]
+0:{"b":"0QOf_T3604Ogmsldrh68t","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

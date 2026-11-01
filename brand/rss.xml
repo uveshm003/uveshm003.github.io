@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Studio</title>
+    <title>Menpur Studio</title>
     <link>https://uveshm003.github.io/brand/</link>
     <atom:link href="https://uveshm003.github.io/brand/rss.xml" rel="self" type="application/rss+xml" />
     <description>Brands, campaigns and the thinking behind them.</description>
     <language>en</language>
+    <item>
+      <title>Starting with ideas</title>
+      <link>https://uveshm003.github.io/brand/essays/starting-with-ideas</link>
+      <guid isPermaLink="true">https://uveshm003.github.io/brand/essays/starting-with-ideas</guid>
+      <category>Essay</category>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+      <description>Most brands start with a logo and a price list. This one starts with ideas: essays, breakdowns of brands I admire, campaign concepts and notes on what I read.</description>
+    </item>
+    <item>
+      <title>Why an engineer cares about brand</title>
+      <link>https://uveshm003.github.io/brand/essays/engineers-and-brand</link>
+      <guid isPermaLink="true">https://uveshm003.github.io/brand/essays/engineers-and-brand</guid>
+      <category>Essay</category>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <description>I build apps for a living. Every app is a promise about how something will feel: fast, calm, trustworthy, fun. The brand makes that promise; the product keeps it.</description>
+    </item>
+    <item>
+      <title>Say it out loud: a campaign for SpeakUp</title>
+      <link>https://uveshm003.github.io/brand/concepts/speakup-campaign</link>
+      <guid isPermaLink="true">https://uveshm003.github.io/brand/concepts/speakup-campaign</guid>
+      <category>Concept</category>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+      <description>SpeakUp is my offline app for practising spoken English. This is a concept for how I’d launch it.</description>
+    </item>
   </channel>
 </rss>
