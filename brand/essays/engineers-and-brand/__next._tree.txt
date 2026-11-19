@@ -5,4 +5,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"engineers-and-brand","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"kind","t":"d","k":"essays","s":["rss.xml","series"]},"h":196704,"c":"$Q2"}]]
-0:{"b":"18pQwtU3qO-tUX-153eNZ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"_I2eO12v29kTzDsb7Jaah","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
