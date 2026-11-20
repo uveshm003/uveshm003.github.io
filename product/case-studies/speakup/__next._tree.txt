@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/19h8zr_06jfd0.css","style"]
+:HL["/_next/static/chunks/3o5j2p-uoscwu.css","style"]
 :HL["/_next/static/chunks/21x5sc5aku8o7.css","style"]
 :HL["/_next/static/media/73c8302d2fdfe340-s.p.30xqm3yldpj47.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/75cb990346c55dc4-s.p.40bho2kviej2o.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -10,4 +10,4 @@
 3:[["children",{"s":{"n":"kind","t":"d","k":"case-studies","s":[]},"h":196704,"c":"$Q4"}]]
 2:[["children",{"s":"product","h":131168,"c":"$Q3"}]]
 1:[["children",{"s":"(product)","h":131168,"c":"$Q2"}]]
-0:{"b":"jNARH7yRyZRMY2LdGs4Ba","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"g0ap4vWL0w7vSi9L35faf","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
